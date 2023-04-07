@@ -1,4 +1,4 @@
-Hola 👋🏻 Soy Ivan!<br><br>Front-End Developer Jr.<br><br>Soy un joven profesional capacitado en desarrollo de software y soporte de TI.<br>
+Hola 👋🏻 Soy Ivan!<br><br>Front-End Developer Jr.
 
 
 ## 🌐 Socials:
