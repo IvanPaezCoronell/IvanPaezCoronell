@@ -1,9 +1,11 @@
 <p align="center" >
-   <img align="center" width="150" src="https://media.licdn.com/dms/image/D4E03AQF_T4V1_xEKGQ/profile-displayphoto-shrink_200_200/0/1682518228511?e=1687996800&v=beta&t=dDBGCtjBlb72ZyxtIyCzWyFK0iLRrbodsieOQENmIbQ" />
    <h3 align="center">¡Hey 👋! Soy Ivan 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Front-End Jr</strong></p>
+<p align="center">Soy <strong>Desarrollador Front-End Jr</strong></p><br><br>
+
+<p> En los últimos años he tenido la posibilidad de aprender y trabajar con distintas tecnologías y espero poder continuar haciéndolo.<br><br>
+En lo personal, me gusta trabajar con gente, me interesa vincularme y aprender de cada uno de ellos.  Me pongo constantemente delante de nuevos desafíos para intentar resolverlos, ya sea con mis herramientas actuales o aprendiendo nuevas.</p> <br>
 ---
 
 
@@ -17,12 +19,7 @@
 <br><br>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IvanPaezCoronell&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPaezCoronell&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IvanPaezCoronell&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IvanPaezCoronell&icon=2&color=12)](https://visitcount.itsvg.in)
-
